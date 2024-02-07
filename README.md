@@ -6,7 +6,7 @@ Specializing in Software Engineering</h6>
 
 <hr>
 
-🌱 I’m currently learning <b>Software Engineering @SLIIT</b><br><br>📫 How to reach me movindusenuraaluthge@gmail.com<br><br>⚡ Fact <b>I LOVE COFFEE</b>
+🌱 I’m currently learning <b>Software Engineering @SLIIT</b><br><br>📫 How to reach me movindusenuraaluthge@gmail.com<br><br>📞<b>+94 70 3396474</b><br><br>⚡ Fact <b>I LOVE COFFEE</b>
 
 <hr>
 
