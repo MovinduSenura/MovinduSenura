@@ -1,4 +1,4 @@
-![Header](./DAEDRA.png)
+![Header](./DAEDRA2.png)
 
 <h3>Software Engineering Undergraduate @SLIIT</h3>
 <h6>BSc (Hons) in Information Technology
