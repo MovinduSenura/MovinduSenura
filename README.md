@@ -29,7 +29,9 @@ Specializing in Software Engineering</h6>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MovinduSenura&theme=dark&hide_border=true)
 <hr>
 
-### ✍️ Random Dev Quote <img width="35%" align="right" src= https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png>
+<img width="35%" align="right" src= https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png>
+
+### ✍️ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
 
 
