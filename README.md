@@ -25,9 +25,8 @@ Specializing in Software Engineering</h6>
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=MovinduSenura&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=MovinduSenura&theme=dark&hide_border=false)<br/>
-
+![](https://github-readme-stats.vercel.app/api?username=MovinduSenura&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=MovinduSenura&theme=dark&hide_border=true)
 <hr>
 
 ### ✍️ Random Dev Quote <img width="35%" align="right" src= https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png>
