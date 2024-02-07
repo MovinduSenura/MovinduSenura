@@ -14,8 +14,8 @@ Specializing in Software Engineering</h6>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/movindusenura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/movindusenura" height="30" width="40" /></a>
-<a href="https://instagram.com/movindu_senura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="movindu_senura" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/movindusenura" target="blank"><img style="margin: 10px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/movindusenura" height="50" width="40" /></a>
+<a href="https://instagram.com/movindu_senura" target="blank"><img style="margin: 10px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="movindu_senura" height="50" width="40" /></a>
 </p>
 
 <h3>Languages and Tools:</h3>  
@@ -44,6 +44,7 @@ Specializing in Software Engineering</h6>
 
 ![](https://github-readme-stats.vercel.app/api?username=MovinduSenura&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MovinduSenura&theme=dark&hide_border=true)
+  
 <hr>
 
 
