@@ -1,6 +1,6 @@
 ![Header](./DAEDRA2.png)
 
-<h3>Software Engineering Graduate @SLIIT | Software Engineer</h3>
+<h3>Software Engineer</h3>
 <h6>BSc (Hons) in Information Technology
 Specializing in Software Engineering</h6>
 
@@ -8,7 +8,7 @@ Specializing in Software Engineering</h6>
 
 <hr>
 
-🌱 I’m currently learning <b>Software Engineering @SLIIT</b><br><br>📫 How to reach me movindusenuraaluthge@gmail.com<br><br>📞<b>+94 70 339 6474</b><br><br>⚡ Fact <b>I LOVE COFFEE</b>
+🌱 <b>Software Engineering Graduate @SLIIT</b><br><br>📫 How to reach me movindusenuraaluthge@gmail.com<br><br>📞<b>+94 70 339 6474</b><br><br>⚡ Fact <b>I LOVE COFFEE</b>
 
 <hr>
 
