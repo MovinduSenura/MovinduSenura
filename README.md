@@ -4,7 +4,7 @@
 <h6>BSc (Hons) in Information Technology
 Specializing in Software Engineering</h6>
 
-<h5>Student ID - IT22371218</h5>
+<!-- <h5>Student ID - IT22371218</h5> -->
 
 <hr>
 
