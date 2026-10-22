@@ -1,6 +1,6 @@
 ![Header](./DAEDRA2.png)
 
-<h3>Software Engineering Undergraduate @SLIIT</h3>
+<h3>Software Engineering Graduate @SLIIT | Software Engineer</h3>
 <h6>BSc (Hons) in Information Technology
 Specializing in Software Engineering</h6>
 
